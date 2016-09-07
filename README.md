@@ -1,3 +1,3 @@
 ### Angular 2 Documentation Example 
 
-Dependency Injection
+Dependency Injection# angular2-dependency-injection-showcase
